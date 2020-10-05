@@ -1,11 +1,10 @@
-﻿<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
 <html xmlns="http://www.w3.org/1999/xhtml">
 
 <head>
 
 	<meta http-equiv="Content-Type" content="text/html; charset=utf-8" />
 	<meta name="viewport" content="width=device-width, initial-scale=1, maximum-scale=1" />
-    <meta name="google-site-verification" content="Q-05jUsFisUa9HCNlahnx_iw-RwK7QWg8C_QAtj4eZs" />
 	
     <title>Capstone Care Network</title>
     
@@ -27,7 +26,7 @@
             
             <p>The patient will see you now</p>
             
-            <a href="tel:804-254-1728">804-254-1728</a>
+            <a href="tel:804-278-9688">804-278-9688</a>
             
             <a href="mailto:info@capstonecarenet.com">info@capstonecarenet.com</a>
         
@@ -127,7 +126,22 @@
                         <h4>Georgeann Edford</h4>
                         <p>Georgeann founded Coding Compliance Solutions (CCS) 20 years ago. CCS brings together a unique skill set to enable accurate and efficient analysis of medical records and clinical data, especially as it relates to the complex areas of Medicare coding and billing.</p>
                     </li>
-                                    </ul>
+                    <li>
+                    	<img src="images/team-img1.jpg" alt="" />
+                        <h4>Warren Brennan</h4>
+                        <p>A highly experienced entrepreneur, Warren most recently served as co founder of New Health Analytics (NHA) and managed the company’s operations including data management, technology development, reporting, and customer relationships.</p>
+                    </li>
+                    <li>
+                    	<img src="images/team-img2.jpg" alt="" />
+                        <h4>Sandy Friedman</h4>
+                        <p>Founder of MediRegs, a health care compliance and reimbursement software and publishing company. Sandy Has more than 30 years of experience building database and software products for healthcare and other complex businesses involved heavily regulated industries.</p>
+                    </li>
+                    <li>
+                    	<img src="images/team-img3.jpg" alt="" />
+                        <h4>Max Irwin</h4>
+                        <p>Max has over 18 years of professional technical and leadership experience.  He has a deep focus in web solutions, content management, search technology, machine learning, and their applications in Research, Healthcare, and Regulatory Compliance.</p>
+                    </li>
+                </ul>
 			
             </div>
         </article>
@@ -154,10 +168,6 @@
 	
 </section>
 <!-- end template -->
-
-<!-- Start of HubSpot Embed Code -->
-<script type="text/javascript" id="hs-script-loader" async defer src="//js.hs-scripts.com/5316176.js"></script>
-<!-- End of HubSpot Embed Code -->
 
 </body>
 
