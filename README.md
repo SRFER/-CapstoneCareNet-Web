@@ -8,4 +8,4 @@ You will probably need to do a hard-refresh on the site to see the changes as it
 The Pipeline is located on Azure DevOps: https://dev.azure.com/CapstoneCareNet/
 The DevOps needs the Webhooks and Secrect in place.
 
-If you need info or access to this please sandford<dot>friedman<at>gmail.com
+If you need info or access to this please sanford<dot>friedman<at>gmail.com
