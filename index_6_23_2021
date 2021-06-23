@@ -1,0 +1,123 @@
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml">
+
+<head>
+
+	<meta http-equiv="Content-Type" content="text/html; charset=utf-8" />
+	<meta name="viewport" content="width=device-width, initial-scale=1, maximum-scale=1" />
+    <meta name="google-site-verification" content="Q-05jUsFisUa9HCNlahnx_iw-RwK7QWg8C_QAtj4eZs" />
+	
+    <title>Capstone Care Network</title>
+    
+	<link rel="stylesheet" href="css/layout.css" type="text/css" />
+
+</head>
+
+<body>
+
+<!-- start template -->
+<section id="template">
+	
+    <!-- start header -->
+    <header id="header-part">
+
+        <div class="logo"><a href="index.html"><img alt="" src="images/logo.png" /></a></div>
+    
+        <div class="text">
+            
+            <p>The patient will see you now</p>
+            
+            <a href="tel:617-417-6783">617-417-6783</a>
+            
+            <a href="mailto:info@capstonecarenet.com">info@capstonecarenet.com</a>
+        
+        </div>
+        
+    </header>
+    <!-- end header -->
+		
+    <!-- start content -->
+    <section id="content-part">
+        
+        <!-- start text bar -->
+        <div class="text-bar">
+        	<div class="wrapper">
+
+            	<img src="images/img1.png" alt="" />
+                
+                <div class="intro">
+                	
+                    <h1>About Capstone</h1>
+                    
+                    <h3>Capstone is dedicated to helping in the digital transformation of US healthcare. We work to create practical solutions to improve 
+			healthcare delivery to medically underserved areas, and medically underserved populations via telehealth. </h3>
+                
+                </div>
+			
+            </div>
+        </div>
+        <!-- end text bar -->
+        
+        <!-- start services bar -->
+        <article class="services-bar">
+			<div class="wrapper">
+            
+                <h2>What We Do</h2>
+            
+                <ul>
+                	<li>
+                    	<img src="images/icon1.png" alt="" />
+                        <p>Advisory service for connected care strategic planning & implementation</p>
+                    </li>
+                    <li>
+                    	<img src="images/icon2.png" alt="" />
+                        <p>Product design and product management services</p>
+                    </li>
+                    <li>
+                    	<img src="images/icon3.png" alt="" />
+                        <p>We create afforable, reiiable, and practical software</p>
+                    </li>
+                    <li>
+                    	<img src="images/icon4.png" alt="" />
+                        <p>We provide pragmetic advice in legal, regulatory, and reimbusemen aspects of telehealth</p>
+                    </li>
+                    <li>
+                    	<img src="images/icon5.png" alt="" />
+                        <p>Guidance for emerging organizations seeking to achieve sustainability for ongoing telehealth operations</p>
+                    </li>
+                </ul>
+			
+            </div>
+        </article>
+        <!-- end text bar -->
+        
+        <!-- start team bar -->
+    
+        
+    </section>
+    <!-- end content -->
+		
+    <!-- start footer -->
+    <footer id="footer-part">
+
+        <div class="text">
+            
+            <h2>Contact</h2>
+            
+            <h3>To learn more about how Capstone can meet your needs, please contact us at <a href="tel:617-417-6783">617-417-6783</a> or <a href="mailto:info@capstonecarenet.com">info@capstonecarenet.com</a>.</h3>
+        
+        </div>
+        
+        <div class="logo"><a href="index.html"><img alt="" src="images/footer-logo.png" /></a></div>
+		
+    </footer>
+    <!-- end footer -->
+	
+</section>
+<!-- end template -->
+
+
+
+</body>
+
+</html>
